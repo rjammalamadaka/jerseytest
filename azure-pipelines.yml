@@ -29,5 +29,5 @@ steps:
   displayName: Build and Push
   inputs:
     command: buildAndPush
-    repository: demo
+    repository: jerseytest
     tags: latest
